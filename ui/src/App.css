@@ -42,6 +42,7 @@ label {
   color: #000;
 }
 
+/*
 .App {
   text-align: center;
 }
@@ -60,7 +61,7 @@ label {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: red;
+  color: white;
 }
 
 .App-link {
@@ -75,3 +76,4 @@ label {
     transform: rotate(360deg);
   }
 }
+*/

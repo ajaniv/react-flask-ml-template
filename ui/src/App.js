@@ -1,4 +1,4 @@
-
+/*
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -25,8 +25,7 @@ function App() {
 }
 
 export default App;
-
-/*
+*/
 import React, { Component } from 'react';
 import './App.css';
 import Form from 'react-bootstrap/Form';
@@ -197,4 +196,3 @@ class App extends Component {
 }
 
 export default App;
-*/
